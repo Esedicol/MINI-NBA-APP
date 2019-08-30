@@ -3,7 +3,7 @@
 **1) Vue.js and Veutify Front-End** <br>
 **2) Node.js Back-End**<br>
 **3) Firebase Authentication and Database**<br>
-<br> YouTube Link : https://www.youtube.com/watch?v=9goGrvVK4tI&t=183s <br><br>
+<br> YouTube Link : https://youtu.be/rZsyh1lpcxc <br><br>
 
 
 <h1> Overview </h1>
