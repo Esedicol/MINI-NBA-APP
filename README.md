@@ -3,8 +3,9 @@
 **1) Vue.js and Veutify Front-End** <br>
 **2) Node.js Back-End**<br>
 **3) Firebase Authentication and Database**<br>
-<br> YouTube Link : https://youtu.be/rZsyh1lpcxc <br><br>
-<br> Web App Hosted here: https://mini-nba-app-e0356.firebaseapp.com/#/login <br>
+<br> YouTube Link 1 https://youtu.be/rZsyh1lpcxc <br><br>
+<br> YouTube Link 2 https://www.youtube.com/watch?v=eMBc9gaX5ac&feature=youtu.be <br><br>
+Web App Hosted here: https://mini-nba-app-e0356.firebaseapp.com/#/login <br>
 
 
 <h1> Overview </h1>
