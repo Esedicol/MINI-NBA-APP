@@ -4,6 +4,7 @@
 **2) Node.js Back-End**<br>
 **3) Firebase Authentication and Database**<br>
 <br> YouTube Link : https://youtu.be/rZsyh1lpcxc <br><br>
+<br> Web App Hosted here: https://mini-nba-app-e0356.firebaseapp.com/#/login <br>
 
 
 <h1> Overview </h1>
