@@ -6,7 +6,7 @@
 <br> YouTube Link 1 https://youtu.be/rZsyh1lpcxc 
 <br> YouTube Link new https://www.youtube.com/watch?v=eMBc9gaX5ac&feature=youtu.be <br>
 Web App Hosted here: https://mini-nba-app-e0356.firebaseapp.com/#/login <br>
-**on the source file**
+**Report file - https://github.com/Esedicol/MINI-NBA-APP/blob/master/NBA%20App.pdf*
 
 <h1> Overview </h1>
 <p>
